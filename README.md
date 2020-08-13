@@ -6,6 +6,9 @@ In perpetual beta. </br>
 
 YAML engineer 😄
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kigsmtua&show_icons=true&theme=radical&count_private=true)
+
+
 <!--
 **kigsmtua/kigsmtua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
