@@ -6,7 +6,8 @@ In perpetual beta. </br>
 
 YAML engineer 😄
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kigsmtua&show_icons=true&theme=radical&count_private=true)
+
+</br>
 
 
 <!--
